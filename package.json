@@ -1,0 +1,27 @@
+{
+  "name": "pg-intro-get-post",
+  "version": "1.0.0",
+  "description": "## Songs API",
+  "main": "server/server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-gelle/pg-intro-get-post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-gelle/pg-intro-get-post/issues"
+  },
+  "homepage": "https://github.com/nate-gelle/pg-intro-get-post#readme"
+}
